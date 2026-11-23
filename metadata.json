@@ -1,0 +1,8 @@
+{
+  "name": "My School / আমার বিদ্যালয়",
+  "description": "Bilingual (English + বাংলা) School Management Companion Web Application synced in real time with the My School Android app.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
